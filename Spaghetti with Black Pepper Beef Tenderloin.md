@@ -11,7 +11,8 @@
 - cooking oil
 
 # How to make it
-1. marinate the beef with 
+1. marinate the beef with
+  -
   - 1 sp soy sauce light
   - 0.5 sp soy sauce dark
   - 1 sp oyster sauce
