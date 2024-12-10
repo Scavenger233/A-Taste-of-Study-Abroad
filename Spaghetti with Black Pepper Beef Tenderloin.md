@@ -12,10 +12,10 @@
 
 # How to make it
 1. marinate the beef with 
- - 1 sp soy sauce light
- - 0.5 sp soy sauce dark
- - 1 sp oyster sauce
- - much black pepper you like
+  - 1 sp soy sauce light
+  - 0.5 sp soy sauce dark
+  - 1 sp oyster sauce
+  - much black pepper you like
 2. stir it properly
 3. add cooking oil in to keet it from drying out
 4. dice the green and red pepper
