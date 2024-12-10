@@ -4,11 +4,11 @@
 - spaghetti
 
 # Seasoning
-soy sauce light
-soy sauce dark
-oyster sauce
-black pepper
-cooking oil
+- soy sauce light
+- soy sauce dark
+- oyster sauce
+- black pepper
+- cooking oil
 
 # How to make it
 1. marinate the beef with 
